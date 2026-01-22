@@ -6,5 +6,4 @@ TALL DODGE GAME
 <img width="1859" height="790" alt="2026-01-22_16 52 03" src="https://github.com/user-attachments/assets/3425c6c4-22db-4c1c-874e-7aa2fc0ea6e0" />
 
 ## 操作説明
-例
 - 矢印キーで左右に移動してオブジェクトをよける
